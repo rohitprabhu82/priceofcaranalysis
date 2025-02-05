@@ -35,9 +35,6 @@ For this application, we used a machine learning process which starts with gathe
 
 ![Machine Learning Overview!](./images/Machine-Learning-Process-Overview.jpeg)
 
-Source - https://centricconsulting.com/blog/machine-learning-a-quick-introduction-and-five-core-steps/
-
-
 ## Data Understanding
 
 The first thing that was apparent from the provided data was that it was not clean, it had missing values and some of the values were not realistic for used cars, for example, odometer with zero and single digit values; price with zero and single digits values.
