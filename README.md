@@ -1,5 +1,5 @@
 # priceofacar
-GitHub Repository for work done on Professional Certificate in Machine Learning and Artificial Intelligence - December 2022
+GitHub Repository for work done on Professional Certificate in Machine Learning and Artificial Intelligence - February 2025
 
 # Practical Application Assignment 11.1: What Drives the Price of a Car?
 
@@ -17,7 +17,7 @@ GitHub Repository for work done on Professional Certificate in Machine Learning 
  
 ## Introduction
 
-This repository contains the Jupyter Notebook for the Application Assignment 11.1. This takes a sample jupyter notebook to complete the exercise to analyse Kaggle used car data in [vehicles.csv](https://github.com/yemifalokun/priceofacar/blob/main/data/vehicles.csv) file in the data folder of this repository to build a machine learning application that evaluates if vehicles features like Fuel, Condition, Size, Type, Color etc. can be used to determine used car prices for the Car Dealership and Sales Team. This evaluation will help the Car Dealership with fine tuning their inventory by stocking cars that consumers are interested in.
+This repository contains the Jupyter Notebook for the Application Assignment 11.1. This takes a sample jupyter notebook to complete the exercise to analyse Kaggle used car data in (https://github.com/rohitprabhu82/priceofcaranalysis/blob/main/data/vehicles.csv) file in the data folder of this repository to build a machine learning application that evaluates if vehicles features like Fuel, Condition, Size, Type, Color etc. can be used to determine used car prices for the Car Dealership and Sales Team. This evaluation will help the Car Dealership with fine tuning their inventory by stocking cars that consumers are interested in.
 
 ## How to use the files in this repository?
 
@@ -93,7 +93,7 @@ In testing these models with the inputs, we observed the following for used car 
 | Model1      	| Old 2001 car with 90000 miles                                                        	| 17,566.90                    	|
 | Model2      	| New 2022 Car with 100 miles                                                          	| 26,627.40                    	|
 | Model3      	| Car with Year of 1980                                                                	| 18,540.07                    	|
-| Model3      	| Car with Year of 2020                                                                	| 18,914.62                    	|
+| Model3      	| Car with Year of 2021                                                                	| 18,914.62                    	|
 | Model4      	| Car with Odometer of 50000                                                           	| 5,919.20                     	|
 | Model4      	| Car with Odometer of 100000                                                          	| 11,838.40                    	|
 |             	|                                                                                      	|                              	|
